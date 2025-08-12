@@ -1,0 +1,27 @@
+{
+  "id": "web/customer/wallet-transaction",
+  "title": "Wallet Transaction",
+  "description": "Customer Wallet Transaction",
+  "source": "@site/docs/web/customer/wallet-transaction.md",
+  "sourceDirName": "web/customer",
+  "slug": "/web/customer/wallet-transaction",
+  "permalink": "/my-docs/docs/web/customer/wallet-transaction",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Wallet Transaction"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Transaction",
+    "permalink": "/my-docs/docs/web/customer/transaction"
+  },
+  "next": {
+    "title": "Auto Update",
+    "permalink": "/my-docs/docs/web/auto-update"
+  }
+}

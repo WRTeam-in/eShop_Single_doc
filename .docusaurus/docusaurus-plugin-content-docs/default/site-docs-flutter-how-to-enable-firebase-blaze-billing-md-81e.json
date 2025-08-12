@@ -1,0 +1,25 @@
+{
+  "id": "flutter/how-to-enable-firebase-blaze-billing",
+  "title": "How to Enable Firebase Blaze billing",
+  "description": "How to Enable Firebase Blaze billing",
+  "source": "@site/docs/flutter/how-to-enable-firebase-blaze-billing.md",
+  "sourceDirName": "flutter",
+  "slug": "/flutter/how-to-enable-firebase-blaze-billing",
+  "permalink": "/my-docs/docs/flutter/how-to-enable-firebase-blaze-billing",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How to Enable Firebase Blaze billing"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "How to Change default country code for OTP",
+    "permalink": "/my-docs/docs/flutter/how-to-change-default-country-code-for-otp"
+  },
+  "next": {
+    "title": "Steps to Authenticate firebase using Google",
+    "permalink": "/my-docs/docs/flutter/steps-to-authenticate-firebase-using-google"
+  }
+}

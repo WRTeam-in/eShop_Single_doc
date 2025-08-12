@@ -1,0 +1,25 @@
+{
+  "id": "flutter/change-api-parameters",
+  "title": "Change Api Parameter",
+  "description": "Change Api Parameter",
+  "source": "@site/docs/flutter/change-api-parameters.md",
+  "sourceDirName": "flutter",
+  "slug": "/flutter/change-api-parameters",
+  "permalink": "/my-docs/docs/flutter/change-api-parameters",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Change Api Parameter"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "How to Increase Product Load Limit",
+    "permalink": "/my-docs/docs/flutter/how-to-increase-product-load-limit"
+  },
+  "next": {
+    "title": "Get Privacy-Policy URL for PlayStore",
+    "permalink": "/my-docs/docs/flutter/get-privacy-policy-url-for-playstore"
+  }
+}

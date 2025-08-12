@@ -1,0 +1,25 @@
+{
+  "id": "flutter/how-to-change-app-version",
+  "title": "How to change App Version",
+  "description": "How to change App Version",
+  "source": "@site/docs/flutter/how-to-change-app-version.md",
+  "sourceDirName": "flutter",
+  "slug": "/flutter/how-to-change-app-version",
+  "permalink": "/my-docs/docs/flutter/how-to-change-app-version",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How to change App Version"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "How to change AppName",
+    "permalink": "/my-docs/docs/flutter/how-to-change-appname"
+  },
+  "next": {
+    "title": "How to Change app logo",
+    "permalink": "/my-docs/docs/flutter/how-to-change-app-logo"
+  }
+}

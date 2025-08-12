@@ -1,0 +1,25 @@
+{
+  "id": "flutter/how-to-change-app-font",
+  "title": "How to Change App font",
+  "description": "How to Change App font",
+  "source": "@site/docs/flutter/how-to-change-app-font.md",
+  "sourceDirName": "flutter",
+  "slug": "/flutter/how-to-change-app-font",
+  "permalink": "/my-docs/docs/flutter/how-to-change-app-font",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How to Change App font"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "How to Remove Dark Theme",
+    "permalink": "/my-docs/docs/flutter/how-to-remove-dark-theme"
+  },
+  "next": {
+    "title": "How to Change server url",
+    "permalink": "/my-docs/docs/flutter/how-to-change-server-url"
+  }
+}

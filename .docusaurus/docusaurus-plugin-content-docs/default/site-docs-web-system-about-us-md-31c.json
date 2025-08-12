@@ -1,0 +1,27 @@
+{
+  "id": "web/system/about-us",
+  "title": "About Us",
+  "description": "About Us",
+  "source": "@site/docs/web/system/about-us.md",
+  "sourceDirName": "web/system",
+  "slug": "/web/system/about-us",
+  "permalink": "/my-docs/docs/web/system/about-us",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "title": "About Us"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Delivery Boy Privacy Policy",
+    "permalink": "/my-docs/docs/web/system/delivery-boy-privacy-policy"
+  },
+  "next": {
+    "title": "Time Slots",
+    "permalink": "/my-docs/docs/web/system/time-slots"
+  }
+}

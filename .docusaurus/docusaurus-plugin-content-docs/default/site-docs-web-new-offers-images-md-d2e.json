@@ -1,0 +1,27 @@
+{
+  "id": "web/new-offers-images",
+  "title": "New Offers Images",
+  "description": "Offers Management",
+  "source": "@site/docs/web/new-offers-images.md",
+  "sourceDirName": "web",
+  "slug": "/web/new-offers-images",
+  "permalink": "/my-docs/docs/web/new-offers-images",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "title": "New Offers Images"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Home Slider Images",
+    "permalink": "/my-docs/docs/web/home-slider-images"
+  },
+  "next": {
+    "title": "Promo Code",
+    "permalink": "/my-docs/docs/web/promo-code"
+  }
+}

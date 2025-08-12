@@ -1,0 +1,25 @@
+{
+  "id": "flutter/how-to-create-firebase-project",
+  "title": "How to Create firebase project",
+  "description": "How to Create firebase project",
+  "source": "@site/docs/flutter/how-to-create-firebase-project.md",
+  "sourceDirName": "flutter",
+  "slug": "/flutter/how-to-create-firebase-project",
+  "permalink": "/my-docs/docs/flutter/how-to-create-firebase-project",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How to Create firebase project"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "How to Change server url",
+    "permalink": "/my-docs/docs/flutter/how-to-change-server-url"
+  },
+  "next": {
+    "title": "How to enable Firebase Phone Authentication(OTP)",
+    "permalink": "/my-docs/docs/flutter/how-to-enable-firebase-phone-authentication-otp"
+  }
+}

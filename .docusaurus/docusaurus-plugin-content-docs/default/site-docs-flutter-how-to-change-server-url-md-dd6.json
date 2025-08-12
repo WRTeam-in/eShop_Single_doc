@@ -1,0 +1,25 @@
+{
+  "id": "flutter/how-to-change-server-url",
+  "title": "How to Change server url",
+  "description": "How to Change server url",
+  "source": "@site/docs/flutter/how-to-change-server-url.md",
+  "sourceDirName": "flutter",
+  "slug": "/flutter/how-to-change-server-url",
+  "permalink": "/my-docs/docs/flutter/how-to-change-server-url",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How to Change server url"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "How to Change App font",
+    "permalink": "/my-docs/docs/flutter/how-to-change-app-font"
+  },
+  "next": {
+    "title": "How to Create firebase project",
+    "permalink": "/my-docs/docs/flutter/how-to-create-firebase-project"
+  }
+}

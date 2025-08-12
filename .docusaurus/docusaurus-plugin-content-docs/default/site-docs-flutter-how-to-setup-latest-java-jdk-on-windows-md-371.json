@@ -1,0 +1,25 @@
+{
+  "id": "flutter/how-to-setup-latest-java-jdk-on-windows",
+  "title": "How to Setup latest Java jdk on windows",
+  "description": "How to Setup latest Java jdk on windows",
+  "source": "@site/docs/flutter/how-to-setup-latest-java-jdk-on-windows.md",
+  "sourceDirName": "flutter",
+  "slug": "/flutter/how-to-setup-latest-java-jdk-on-windows",
+  "permalink": "/my-docs/docs/flutter/how-to-setup-latest-java-jdk-on-windows",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How to Setup latest Java jdk on windows"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Required Software",
+    "permalink": "/my-docs/docs/flutter/required-software"
+  },
+  "next": {
+    "title": "How to Setup Flutter",
+    "permalink": "/my-docs/docs/flutter/how-to-setup-flutter"
+  }
+}

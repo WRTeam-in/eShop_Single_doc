@@ -1,0 +1,25 @@
+{
+  "id": "flutter/how-to-setup-flutter",
+  "title": "How to Setup Flutter",
+  "description": "How to Setup Flutter",
+  "source": "@site/docs/flutter/how-to-setup-flutter.md",
+  "sourceDirName": "flutter",
+  "slug": "/flutter/how-to-setup-flutter",
+  "permalink": "/my-docs/docs/flutter/how-to-setup-flutter",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How to Setup Flutter"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "How to Setup latest Java jdk on windows",
+    "permalink": "/my-docs/docs/flutter/how-to-setup-latest-java-jdk-on-windows"
+  },
+  "next": {
+    "title": "Flutter Doctor Output Error",
+    "permalink": "/my-docs/docs/flutter/flutter-doctor-output-error"
+  }
+}

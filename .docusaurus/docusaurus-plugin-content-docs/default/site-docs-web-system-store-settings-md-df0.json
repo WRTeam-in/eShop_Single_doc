@@ -1,0 +1,27 @@
+{
+  "id": "web/system/store-settings",
+  "title": "Store Settings",
+  "description": "Store Setting",
+  "source": "@site/docs/web/system/store-settings.md",
+  "sourceDirName": "web/system",
+  "slug": "/web/system/store-settings",
+  "permalink": "/my-docs/docs/web/system/store-settings",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Store Settings"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "System",
+    "permalink": "/my-docs/docs/category/system"
+  },
+  "next": {
+    "title": "Email Settings",
+    "permalink": "/my-docs/docs/web/system/email-settings"
+  }
+}

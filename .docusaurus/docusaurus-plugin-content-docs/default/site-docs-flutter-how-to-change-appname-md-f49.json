@@ -1,0 +1,25 @@
+{
+  "id": "flutter/how-to-change-appname",
+  "title": "How to change AppName",
+  "description": "How to change AppName",
+  "source": "@site/docs/flutter/how-to-change-appname.md",
+  "sourceDirName": "flutter",
+  "slug": "/flutter/how-to-change-appname",
+  "permalink": "/my-docs/docs/flutter/how-to-change-appname",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How to change AppName"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "How to first run project",
+    "permalink": "/my-docs/docs/flutter/how-to-first-run-project"
+  },
+  "next": {
+    "title": "How to change App Version",
+    "permalink": "/my-docs/docs/flutter/how-to-change-app-version"
+  }
+}

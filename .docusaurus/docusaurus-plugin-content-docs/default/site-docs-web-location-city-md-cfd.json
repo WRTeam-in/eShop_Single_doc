@@ -1,0 +1,27 @@
+{
+  "id": "web/location/city",
+  "title": "City",
+  "description": "City",
+  "source": "@site/docs/web/location/city.md",
+  "sourceDirName": "web/location",
+  "slug": "/web/location/city",
+  "permalink": "/my-docs/docs/web/location/city",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "City"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Location",
+    "permalink": "/my-docs/docs/category/location"
+  },
+  "next": {
+    "title": "Areas",
+    "permalink": "/my-docs/docs/web/location/areas"
+  }
+}

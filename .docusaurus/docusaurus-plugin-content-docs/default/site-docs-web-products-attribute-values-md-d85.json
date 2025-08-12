@@ -1,0 +1,27 @@
+{
+  "id": "web/products/attribute-values",
+  "title": "Attribute Values",
+  "description": "Attribute Values",
+  "source": "@site/docs/web/products/attribute-values.md",
+  "sourceDirName": "web/products",
+  "slug": "/web/products/attribute-values",
+  "permalink": "/my-docs/docs/web/products/attribute-values",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Attribute Values"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Attribute Sets",
+    "permalink": "/my-docs/docs/web/products/attribute-sets"
+  },
+  "next": {
+    "title": "Tax",
+    "permalink": "/my-docs/docs/web/products/tax"
+  }
+}

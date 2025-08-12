@@ -1,0 +1,27 @@
+{
+  "id": "web/system/contact-us",
+  "title": "Contact Us",
+  "description": "Contact Us",
+  "source": "@site/docs/web/system/contact-us.md",
+  "sourceDirName": "web/system",
+  "slug": "/web/system/contact-us",
+  "permalink": "/my-docs/docs/web/system/contact-us",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "Contact Us"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Notification Settings",
+    "permalink": "/my-docs/docs/web/system/notification-settings"
+  },
+  "next": {
+    "title": "Privacy Policy",
+    "permalink": "/my-docs/docs/web/system/privacy-policy"
+  }
+}

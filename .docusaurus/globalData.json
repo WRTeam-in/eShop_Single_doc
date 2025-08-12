@@ -1,0 +1,473 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/my-docs/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/my-docs/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "changelog",
+              "path": "/my-docs/docs/changelog",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/change-api-parameters",
+              "path": "/my-docs/docs/flutter/change-api-parameters",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/enable-cloudkit-in-ios-for-multiple-file-upload",
+              "path": "/my-docs/docs/flutter/enable-cloudkit-in-ios-for-multiple-file-upload",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/flutter-doctor-output-error",
+              "path": "/my-docs/docs/flutter/flutter-doctor-output-error",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/flutter-intro",
+              "path": "/my-docs/docs/flutter/flutter-intro",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/get-privacy-policy-url-for-playstore",
+              "path": "/my-docs/docs/flutter/get-privacy-policy-url-for-playstore",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-add-map-api-key-for-address",
+              "path": "/my-docs/docs/flutter/how-to-add-map-api-key-for-address",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-add-remove-language",
+              "path": "/my-docs/docs/flutter/how-to-add-remove-language",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-change-app-color",
+              "path": "/my-docs/docs/flutter/how-to-change-app-color",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-change-app-font",
+              "path": "/my-docs/docs/flutter/how-to-change-app-font",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-change-app-logo",
+              "path": "/my-docs/docs/flutter/how-to-change-app-logo",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-change-app-version",
+              "path": "/my-docs/docs/flutter/how-to-change-app-version",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-change-appname",
+              "path": "/my-docs/docs/flutter/how-to-change-appname",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-change-default-country-code-for-otp",
+              "path": "/my-docs/docs/flutter/how-to-change-default-country-code-for-otp",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-change-default-language-of-app",
+              "path": "/my-docs/docs/flutter/how-to-change-default-language-of-app",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-change-images-in-app",
+              "path": "/my-docs/docs/flutter/how-to-change-images-in-app",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-change-language-string-value",
+              "path": "/my-docs/docs/flutter/how-to-change-language-string-value",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-change-package-name",
+              "path": "/my-docs/docs/flutter/how-to-change-package-name",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-change-server-url",
+              "path": "/my-docs/docs/flutter/how-to-change-server-url",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-create-deep-link-for-share-item",
+              "path": "/my-docs/docs/flutter/how-to-create-deep-link-for-share-item",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-create-firebase-project",
+              "path": "/my-docs/docs/flutter/how-to-create-firebase-project",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-enable-firebase-blaze-billing",
+              "path": "/my-docs/docs/flutter/how-to-enable-firebase-blaze-billing",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-enable-firebase-phone-authentication-otp",
+              "path": "/my-docs/docs/flutter/how-to-enable-firebase-phone-authentication-otp",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-first-run-project",
+              "path": "/my-docs/docs/flutter/how-to-first-run-project",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-fit-xy-fill-product-image-in-box",
+              "path": "/my-docs/docs/flutter/how-to-fit-xy-fill-product-image-in-box",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-generate-release-apks",
+              "path": "/my-docs/docs/flutter/how-to-generate-release-apks",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-increase-product-load-limit",
+              "path": "/my-docs/docs/flutter/how-to-increase-product-load-limit",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-manage-payment-gateway-and-add-credential-in-admin-panel",
+              "path": "/my-docs/docs/flutter/how-to-manage-payment-gateway-and-add-credential-in-admin-panel",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-manage-preferred-delivery-date-time",
+              "path": "/my-docs/docs/flutter/how-to-manage-preferred-delivery-date-time",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-remove-dark-theme",
+              "path": "/my-docs/docs/flutter/how-to-remove-dark-theme",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-set-currency-code-for-application",
+              "path": "/my-docs/docs/flutter/how-to-set-currency-code-for-application",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-set-notification",
+              "path": "/my-docs/docs/flutter/how-to-set-notification",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-setup-flutter",
+              "path": "/my-docs/docs/flutter/how-to-setup-flutter",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-setup-latest-java-jdk-on-windows",
+              "path": "/my-docs/docs/flutter/how-to-setup-latest-java-jdk-on-windows",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/how-to-solve-data-safety-issue-in-play-store",
+              "path": "/my-docs/docs/flutter/how-to-solve-data-safety-issue-in-play-store",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/required-software",
+              "path": "/my-docs/docs/flutter/required-software",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/steps-to-authenticate-firebase-using-apple",
+              "path": "/my-docs/docs/flutter/steps-to-authenticate-firebase-using-apple",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/steps-to-authenticate-firebase-using-google",
+              "path": "/my-docs/docs/flutter/steps-to-authenticate-firebase-using-google",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flutter/steps-to-publish-ios-app-to-app-store",
+              "path": "/my-docs/docs/flutter/steps-to-publish-ios-app-to-app-store",
+              "sidebar": "docs"
+            },
+            {
+              "id": "intro",
+              "path": "/my-docs/docs/intro",
+              "sidebar": "docs"
+            },
+            {
+              "id": "support/index",
+              "path": "/my-docs/docs/support/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/auto-update",
+              "path": "/my-docs/docs/web/auto-update",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/categories",
+              "path": "/my-docs/docs/web/categories",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/client-api-keys-config",
+              "path": "/my-docs/docs/web/client-api-keys-config",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/customer/transaction",
+              "path": "/my-docs/docs/web/customer/transaction",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/customer/view-customers",
+              "path": "/my-docs/docs/web/customer/view-customers",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/customer/wallet-transaction",
+              "path": "/my-docs/docs/web/customer/wallet-transaction",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/faq",
+              "path": "/my-docs/docs/web/faq",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/featured-sections/manage-sections",
+              "path": "/my-docs/docs/web/featured-sections/manage-sections",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/featured-sections/sections-order",
+              "path": "/my-docs/docs/web/featured-sections/sections-order",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/home",
+              "path": "/my-docs/docs/web/home",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/home-slider-images",
+              "path": "/my-docs/docs/web/home-slider-images",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/installation",
+              "path": "/my-docs/docs/web/installation",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/location/areas",
+              "path": "/my-docs/docs/web/location/areas",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/location/city",
+              "path": "/my-docs/docs/web/location/city",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/media-management",
+              "path": "/my-docs/docs/web/media-management",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/new-offers-images",
+              "path": "/my-docs/docs/web/new-offers-images",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/orders",
+              "path": "/my-docs/docs/web/orders",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/overview",
+              "path": "/my-docs/docs/web/overview",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/products/add-products",
+              "path": "/my-docs/docs/web/products/add-products",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/products/attribute-sets",
+              "path": "/my-docs/docs/web/products/attribute-sets",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/products/attribute-values",
+              "path": "/my-docs/docs/web/products/attribute-values",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/products/attributes",
+              "path": "/my-docs/docs/web/products/attributes",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/products/manage-products",
+              "path": "/my-docs/docs/web/products/manage-products",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/products/products-order",
+              "path": "/my-docs/docs/web/products/products-order",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/products/tax",
+              "path": "/my-docs/docs/web/products/tax",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/promo-code",
+              "path": "/my-docs/docs/web/promo-code",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/reports/sales-report",
+              "path": "/my-docs/docs/web/reports/sales-report",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/send-notification",
+              "path": "/my-docs/docs/web/send-notification",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/support",
+              "path": "/my-docs/docs/web/support",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/system-flow",
+              "path": "/my-docs/docs/web/system-flow",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/system/about-us",
+              "path": "/my-docs/docs/web/system/about-us",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/system/contact-us",
+              "path": "/my-docs/docs/web/system/contact-us",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/system/delivery-boy-privacy-policy",
+              "path": "/my-docs/docs/web/system/delivery-boy-privacy-policy",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/system/email-settings",
+              "path": "/my-docs/docs/web/system/email-settings",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/system/notification-settings",
+              "path": "/my-docs/docs/web/system/notification-settings",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/system/payment-methods",
+              "path": "/my-docs/docs/web/system/payment-methods",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/system/privacy-policy",
+              "path": "/my-docs/docs/web/system/privacy-policy",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/system/shipping-methods",
+              "path": "/my-docs/docs/web/system/shipping-methods",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/system/store-settings",
+              "path": "/my-docs/docs/web/system/store-settings",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/system/time-slots",
+              "path": "/my-docs/docs/web/system/time-slots",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/tabs",
+              "path": "/my-docs/docs/web/tabs",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/web-version-firebase-config",
+              "path": "/my-docs/docs/web/web-version-firebase-config",
+              "sidebar": "docs"
+            },
+            {
+              "id": "/category/products",
+              "path": "/my-docs/docs/category/products",
+              "sidebar": "docs"
+            },
+            {
+              "id": "/category/featured-sections",
+              "path": "/my-docs/docs/category/featured-sections",
+              "sidebar": "docs"
+            },
+            {
+              "id": "/category/customer",
+              "path": "/my-docs/docs/category/customer",
+              "sidebar": "docs"
+            },
+            {
+              "id": "/category/system",
+              "path": "/my-docs/docs/category/system",
+              "sidebar": "docs"
+            },
+            {
+              "id": "/category/location",
+              "path": "/my-docs/docs/category/location",
+              "sidebar": "docs"
+            },
+            {
+              "id": "/category/reports",
+              "path": "/my-docs/docs/category/reports",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/my-docs/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

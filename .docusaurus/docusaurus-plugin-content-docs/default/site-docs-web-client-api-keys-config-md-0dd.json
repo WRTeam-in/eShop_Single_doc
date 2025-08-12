@@ -1,0 +1,27 @@
+{
+  "id": "web/client-api-keys-config",
+  "title": "Client API Keys Configuration",
+  "description": "Client API Keys Configuration",
+  "source": "@site/docs/web/client-api-keys-config.md",
+  "sourceDirName": "web",
+  "slug": "/web/client-api-keys-config",
+  "permalink": "/my-docs/docs/web/client-api-keys-config",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "sidebar_position": 15,
+    "title": "Client API Keys Configuration"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Auto Update",
+    "permalink": "/my-docs/docs/web/auto-update"
+  },
+  "next": {
+    "title": "Send Notification",
+    "permalink": "/my-docs/docs/web/send-notification"
+  }
+}

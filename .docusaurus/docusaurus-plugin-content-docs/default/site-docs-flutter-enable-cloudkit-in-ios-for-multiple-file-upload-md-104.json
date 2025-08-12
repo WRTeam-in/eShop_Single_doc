@@ -1,0 +1,25 @@
+{
+  "id": "flutter/enable-cloudkit-in-ios-for-multiple-file-upload",
+  "title": "Enable CloudKit in iOS for multiple file upload",
+  "description": "Enable CloudKit in iOS for multiple file upload",
+  "source": "@site/docs/flutter/enable-cloudkit-in-ios-for-multiple-file-upload.md",
+  "sourceDirName": "flutter",
+  "slug": "/flutter/enable-cloudkit-in-ios-for-multiple-file-upload",
+  "permalink": "/my-docs/docs/flutter/enable-cloudkit-in-ios-for-multiple-file-upload",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Enable CloudKit in iOS for multiple file upload"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "How to manage payment gateway and add Credential in admin panel",
+    "permalink": "/my-docs/docs/flutter/how-to-manage-payment-gateway-and-add-credential-in-admin-panel"
+  },
+  "next": {
+    "title": "How to manage preferred delivery date time",
+    "permalink": "/my-docs/docs/flutter/how-to-manage-preferred-delivery-date-time"
+  }
+}

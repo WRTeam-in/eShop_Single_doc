@@ -1,0 +1,27 @@
+{
+  "id": "web/products/attribute-sets",
+  "title": "Attribute Sets",
+  "description": "Attribute Sets",
+  "source": "@site/docs/web/products/attribute-sets.md",
+  "sourceDirName": "web/products",
+  "slug": "/web/products/attribute-sets",
+  "permalink": "/my-docs/docs/web/products/attribute-sets",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Attribute Sets"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Attributes",
+    "permalink": "/my-docs/docs/web/products/attributes"
+  },
+  "next": {
+    "title": "Attribute Values",
+    "permalink": "/my-docs/docs/web/products/attribute-values"
+  }
+}

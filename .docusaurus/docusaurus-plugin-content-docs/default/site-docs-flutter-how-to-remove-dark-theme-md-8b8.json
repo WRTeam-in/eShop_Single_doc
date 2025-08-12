@@ -1,0 +1,25 @@
+{
+  "id": "flutter/how-to-remove-dark-theme",
+  "title": "How to Remove Dark Theme",
+  "description": "How to Remove Dark Theme",
+  "source": "@site/docs/flutter/how-to-remove-dark-theme.md",
+  "sourceDirName": "flutter",
+  "slug": "/flutter/how-to-remove-dark-theme",
+  "permalink": "/my-docs/docs/flutter/how-to-remove-dark-theme",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How to Remove Dark Theme"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "How to change default language of app",
+    "permalink": "/my-docs/docs/flutter/how-to-change-default-language-of-app"
+  },
+  "next": {
+    "title": "How to Change App font",
+    "permalink": "/my-docs/docs/flutter/how-to-change-app-font"
+  }
+}

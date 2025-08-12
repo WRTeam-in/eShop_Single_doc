@@ -1,0 +1,25 @@
+{
+  "id": "flutter/flutter-intro",
+  "title": "eShop - Flutter E-commerce Full App",
+  "description": "Click here to find video doc",
+  "source": "@site/docs/flutter/flutter-intro.md",
+  "sourceDirName": "flutter",
+  "slug": "/flutter/flutter-intro",
+  "permalink": "/my-docs/docs/flutter/flutter-intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "eShop - Flutter E-commerce Full App"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "System Flow",
+    "permalink": "/my-docs/docs/web/system-flow"
+  },
+  "next": {
+    "title": "Required Software",
+    "permalink": "/my-docs/docs/flutter/required-software"
+  }
+}

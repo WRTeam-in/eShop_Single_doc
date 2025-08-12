@@ -1,0 +1,27 @@
+{
+  "id": "web/system/delivery-boy-privacy-policy",
+  "title": "Delivery Boy Privacy Policy",
+  "description": "Delivery Boy Privacy Policy",
+  "source": "@site/docs/web/system/delivery-boy-privacy-policy.md",
+  "sourceDirName": "web/system",
+  "slug": "/web/system/delivery-boy-privacy-policy",
+  "permalink": "/my-docs/docs/web/system/delivery-boy-privacy-policy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "title": "Delivery Boy Privacy Policy"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Privacy Policy",
+    "permalink": "/my-docs/docs/web/system/privacy-policy"
+  },
+  "next": {
+    "title": "About Us",
+    "permalink": "/my-docs/docs/web/system/about-us"
+  }
+}

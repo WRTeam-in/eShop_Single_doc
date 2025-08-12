@@ -1,0 +1,25 @@
+{
+  "id": "flutter/steps-to-authenticate-firebase-using-apple",
+  "title": "Steps to Authenticate firebase using Apple",
+  "description": "Steps to Authenticate firebase using Apple",
+  "source": "@site/docs/flutter/steps-to-authenticate-firebase-using-apple.md",
+  "sourceDirName": "flutter",
+  "slug": "/flutter/steps-to-authenticate-firebase-using-apple",
+  "permalink": "/my-docs/docs/flutter/steps-to-authenticate-firebase-using-apple",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Steps to Authenticate firebase using Apple"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Steps to Authenticate firebase using Google",
+    "permalink": "/my-docs/docs/flutter/steps-to-authenticate-firebase-using-google"
+  },
+  "next": {
+    "title": "How to set Notification",
+    "permalink": "/my-docs/docs/flutter/how-to-set-notification"
+  }
+}

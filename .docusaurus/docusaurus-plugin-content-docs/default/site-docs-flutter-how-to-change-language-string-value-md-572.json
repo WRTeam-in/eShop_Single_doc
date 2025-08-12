@@ -1,0 +1,25 @@
+{
+  "id": "flutter/how-to-change-language-string-value",
+  "title": "How to Change language String value",
+  "description": "How to Change language String value",
+  "source": "@site/docs/flutter/how-to-change-language-string-value.md",
+  "sourceDirName": "flutter",
+  "slug": "/flutter/how-to-change-language-string-value",
+  "permalink": "/my-docs/docs/flutter/how-to-change-language-string-value",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How to Change language String value"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "How to Fit xy(fill) product image in box",
+    "permalink": "/my-docs/docs/flutter/how-to-fit-xy-fill-product-image-in-box"
+  },
+  "next": {
+    "title": "How to Add/Remove language",
+    "permalink": "/my-docs/docs/flutter/how-to-add-remove-language"
+  }
+}
