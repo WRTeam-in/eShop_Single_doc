@@ -3,7 +3,7 @@ const config = {
   title: 'eShop',
   tagline: 'Your one-stop Flutter + Web solution',
   url: 'https://WRTeam-in.github.io',
-  baseUrl: '/my-docs/',
+  baseUrl: '/eShop_Single_doc/',
   organizationName: 'WRTeam-in',
   projectName: 'eShop_Single_doc',
   favicon: 'img/favicon.ico',
