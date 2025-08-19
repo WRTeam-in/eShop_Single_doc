@@ -33,7 +33,7 @@ Clicking to the Add Slider tab a new window will be displayed as follows
 ![Home Slider Form](/img/web/home_slider3_tab.jpg)
 
 1.  In Type field Enter the Type of the Slider Images list.
-2.  To know how to upload image in the form click [here](#add-image-form).
+2.  To know how to upload image in the form click [here](/docs/web/media-management.md).
 3.  Click add Slider to add Slider or Reset to Reset the form.
 
 ## Step 2:Delete Slider from the List

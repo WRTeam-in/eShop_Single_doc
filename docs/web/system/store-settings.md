@@ -14,7 +14,7 @@ From Here The Store Settings can be Updated as per requirements
 - **Support Email**: From Here we can update the Support Email
 - **Logo**: From Here we can update the App Logo
 - **Favicon**: From Here we can update the App Favicon
-- To know how to upload image in the form click [here](#add-image-form).
+- To know how to upload image in the form click [here](/docs/web/media-management.md).
 - **Current Version Of App**: From Here we can update the Current Version Of App
 - **Minimum Version Required**: From Here we can update the Minimum Version
 - **Version System Status**: From Here we can update the Version System Status

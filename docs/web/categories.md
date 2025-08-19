@@ -42,7 +42,7 @@ After Clicking to the New Category tab a new window will be displayed as follows
 
 1.  In Category Name field Enter the Name of the Category.
 2.  In Category tax field Enter the tax in Percentage(%) of the Category.
-3.  To know how to upload image in the form click [here](#add-image-form).
+3.  To know how to upload image in the form click [here](/docs/web/media-management.md).
 4.  Click add Category to add Category or Reset to Reset the form.
 
 ![Create Category](/img/web/create_cat.jpg)

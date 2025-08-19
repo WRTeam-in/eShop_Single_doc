@@ -32,7 +32,7 @@ Clicking to the Add Offer tab a new window will be displayed as follows
 
 ![Offers Details](/img/web/offers_tab3.jpg)
 
-1.  To know how to upload image in the form click [here](#add-image-form).
+1.  To know how to upload image in the form click [here](/docs/web/media-management.md).
 2.  Click add Offer to add Offer or Reset to Reset the form.
 
 ## Step 2:Delete Offer Images from the List

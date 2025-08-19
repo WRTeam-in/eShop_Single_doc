@@ -17,5 +17,5 @@ Clicking to the New Product tab a new window will be displayed as follows
 4.  Select the Indicator(like Veg & Non-veg Type) of the Product.
 5.  In Made In field Enter the Country Of Origin of the Product.
 6.  Select the Category of the Products
-7.  To know how to upload image in the form click [here](#add-image-form).
+7.  To know how to upload image in the form click [here](/docs/web/media-management.md).
 8.  Click add Product to add product or Reset to Reset the form. 

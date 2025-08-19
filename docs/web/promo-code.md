@@ -34,7 +34,7 @@ Clicking to the Add Promo Code tab a new window will be displayed as follows
 
 ![Promo Code Form](/img/web/promo_code3.jpg)
 
-1.  To know how to upload image in the form click [here](#add-image-form).
+1.  To know how to upload image in the form click [here](/docs/web/media-management.md).
 2.  Click add Offer to Upload Images or Reset to Reset the form.
 
 ## Step 2:Delete Promo Code from the List
