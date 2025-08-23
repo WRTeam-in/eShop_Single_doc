@@ -31,7 +31,7 @@ Before creating a Firebase app from Flutter, you must install **Firebase CLI.**
 
   ![firebase](/img/flutter/firebase/firebase3.png)  
 
-### 4. Click **Create Project** and wait for the setup to complete.Once done, press **Continue**.  
+### 4. Click **Create Project** and wait for the setup to complete.Once done, press Continue.  
 
 ### 5. How to create a firebase app for flutter 
   https://wrteam-in.github.io/common_app_doc/GeneralSettings/firebase/#-step-3-create-a-firebase-app-for-flutter
