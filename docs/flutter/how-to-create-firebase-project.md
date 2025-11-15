@@ -1,38 +1,11 @@
 ---
-title: How to Create firebase project 
+title: Firebase Setup
 ---
-## How to Create firebase project
+### Overview
+Firebase is a powerful backend platform that helps you add essential features to your Flutter app. It supports authentication, push notifications, analytics, crash reporting, cloud storage, and many other services.
 
-:::caution
-You must use the **same Firebase project** for the app, web, and panels to ensure seamless integration.
-:::
+**Setting it up correctly is important for your app to work smoothly.**
 
----
-
-## Step 1: Install Firebase CLI
-
-Before creating a Firebase app from Flutter, you must install **Firebase CLI.**
-
-** Follow the official guide to install Firebase CLI:**  
-🔗 [Firebase CLI Installation Guide](https://firebase.google.com/docs/cli)
-
----
-
-## Step 2: Create a Firebase Project
-### 1. Open **Firebase Console** and click **Create a Project**.  
-
-  ![firebase](/img/flutter/firebase/firebase1.png)
-
-### 2. Enter your **project name** and press **Continue**.  
-
-  ![firebase](/img/flutter/firebase/firebase2.png)  
-
-### 3. Press **Continue** on the next screen.  
-
-  ![firebase](/img/flutter/firebase/firebase3.png)  
-
-### 4. Click **Create Project** and wait for the setup to complete.Once done, press Continue.  
-
-### 5. How to create a firebase app for flutter 
-  https://wrteam-in.github.io/common_app_doc/GeneralSettings/firebase/#-step-3-create-a-firebase-app-for-flutter
-  
+### How to Set Up Firebase in Your Flutter App
+Use the steps in this guide to connect your Flutter project with Firebase.
+ [Firebase Setup documentation](https://wrteam-in.github.io/common_app_doc/GeneralSettings/firebase/#-how-to-set-up-firebase-in-your-flutter-app).
