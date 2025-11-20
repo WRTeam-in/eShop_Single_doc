@@ -10,8 +10,37 @@ Welcome to the eShop Single Vendor ChangeLog! This section documents all the imp
 
 | Product Version | Flutter Version | Kotlin Version | AGP Version | distributionUrl (Gradle) | JDK Version |
 |---|---|---|---|---|---|
+| 4.4.6 | 3.35.7 | 2.2.0 | 8.11.0 | 9.0.0 | 24 |
+| 4.4.5 | 3.35.7 | 2.2.0 | 8.11.0 | 9.0.0 | 24 |
 | 4.4.4 | 3.32.7 | 2.2.0 | 8.11.0 | 8.14.3 | 24 |
-| 4.4.3 | 3.27.2 | 2.0.10 | 8.5.0 | 8.7 | 21 |
+
+## Version 4.4.6
+( Updated on 15 Nov 2025 )
+
++ [Updated] Updated packages and plugin versions across all apps
++ [Updated] Adjusted media permissions as per new Google Play policies
++ [Updated] Removed READ_MEDIA_IMAGES and READ_MEDIA_VIDEO permissions from AndroidManifest where required
++ [Fix] Delivery Boy filter not working in admin panel
++ [Fix] Delivery Boy account showing active before admin approval
++ [Fix] Search functionality for collected cash in admin panel
++ [Fix] Return request status UI not refreshing immediately after update
++ [Fix] Sidebar showing unauthorized modules for limited permission users
++ [Fix] Delivery Boy filter, status, cash search, and return request UI in admin panel
++ [Fix] Registration without internet, invalid OTP message, and home screen infinite loading
++ [Improvements] UI consistency improvements across Delivery Boy app
++ [Updated] Updated App codes to the Flutter version (3.35.7)
+
+## Version 4.4.5
+( Updated on 1 Nov 2025 )
+
++ [Added] Bulk Quantity Order Discount
++ [Added] Minimum and Maximum Range for COD Orders
++ [Added] Email Login and Registration functionality
++ [Added] Platform Fees display at Checkout
++ [Improved] Sales & Inventory Reports with new filters and charts
++ [Improved] Customer Dashboard UI and performance
++ [Upgraded] PhonePe API integration
++ [Fixed] Minor bugs and performance improvements
 
 ## Version 4.4.4
 ( updated on 17 Jul 2025 )
