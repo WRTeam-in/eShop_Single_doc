@@ -10,9 +10,15 @@ Welcome to the eShop Single Vendor ChangeLog! This section documents all the imp
 
 | Product Version | Flutter Version | Kotlin Version | AGP Version | distributionUrl (Gradle) | JDK Version |
 |---|---|---|---|---|---|
+| 4.4.7 | 3.38.5 | 2.2.0 | 8.11.0 | 9.0.0 | 24 |
 | 4.4.6 | 3.35.7 | 2.2.0 | 8.11.0 | 9.0.0 | 24 |
 | 4.4.5 | 3.35.7 | 2.2.0 | 8.11.0 | 9.0.0 | 24 |
-| 4.4.4 | 3.32.7 | 2.2.0 | 8.11.0 | 8.14.3 | 24 |
+
+## Version 4.4.7
+( Updated on 27 Dec 2025 )
+
++ [Updated] Updated packages and plugin versions across all apps
++ [Updated] Adjusted media permissions as per new Google Play policies
 
 ## Version 4.4.6
 ( Updated on 15 Nov 2025 )
