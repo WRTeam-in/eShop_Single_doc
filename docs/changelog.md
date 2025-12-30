@@ -15,10 +15,15 @@ Welcome to the eShop Single Vendor ChangeLog! This section documents all the imp
 | 4.4.5 | 3.35.7 | 2.2.0 | 8.11.0 | 9.0.0 | 24 |
 
 ## Version 4.4.7
-( Updated on 27 Dec 2025 )
+( Updated on 30 Dec 2025 )
 
-+ [Updated] Updated packages and plugin versions across all apps
-+ [Updated] Adjusted media permissions as per new Google Play policies
++ [Added] Dynamic custom charges support in admin panel, web, and app
++ [Improved] Bug fixes and performance improvements
++ [Improved] Major internal code refactoring in customer app for better performance and maintainability 
++ [Updated] Updated App codes to the Flutter version (3.38.5)
+
+**Note for Customer App Users**
+If you are upgrading from an older version, we recommend setting up everything from the latest 4.4.7 code due to significant internal changes in the customer app.
 
 ## Version 4.4.6
 ( Updated on 15 Nov 2025 )
